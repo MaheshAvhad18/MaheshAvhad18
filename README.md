@@ -77,14 +77,15 @@ I like working on projects that solve real problems while continuously improving
 
 ### Featured Projects
 
-| Project                                                                                                                       | What it does                                                                                          | Stack                         |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [**Event_Manager_Mahesh**](https://github.com/MaheshAvhad18/Event_Manager_Mahesh)                                             | Event management system developed as a C++ project.                                                   | C++                           |
-| [**doctor-appointment-system**](https://github.com/MaheshAvhad18/doctor-appointment-system)                                   | Web-based system for managing doctor appointments.                                                    | JavaScript                    |
-| [**hospital-backend**](https://github.com/MaheshAvhad18/hospital-backend)                                                     | Backend system for managing hospital-related services and operations.                                 | Python                        |
-| [**citizen-identity**](https://github.com/MaheshAvhad18/citizen-identity)                                                     | DBMS project for storing and managing citizen details and identity-related information.               | MySQL · DBMS                  |
-| [**task-manager-api**](https://github.com/MaheshAvhad18/task-manager-api)                                                     | Backend API for creating and managing tasks using Node.js.                                            | Node.js · JavaScript          |
-| [**Plagiarism_Detector_cpp_using_TreeAndGraph**](https://github.com/MaheshAvhad18/Plagiarism_Detector_cpp_using_TreeAndGraph) | Code plagiarism detection system that analyzes C++ source code using tree and graph-based techniques. | C++ · HTML · CSS · JavaScript |
+| **Project** | **What it does** | **Stack** |
+|---|---|---|
+| [**ChainSentry**](https://github.com/MaheshAvhad18/ChainSentry) | AI-powered blockchain transaction risk analyzer that detects anomalous wallets using ML and graph-based transaction analysis. | Python · Scikit-learn · Node.js · JavaScript |
+| [**citizen-identity**](https://github.com/MaheshAvhad18/citizen-identity) | DBMS project for storing and managing citizen identity and personal details. | MySQL · DBMS |
+| [**doctor-appointment-system**](https://github.com/MaheshAvhad18/doctor-appointment-system) | Web-based system for managing doctor appointments and related information. | JavaScript |
+| [**hospital-backend**](https://github.com/MaheshAvhad18/hospital-backend) | Backend system designed to manage hospital-related services and operations. | Python |
+| [**Plagiarism_Detector_cpp_using_TreeAndGraph**](https://github.com/MaheshAvhad18/Plagiarism_Detector_cpp_using_TreeAndGraph) | C++ code plagiarism detection system that analyzes source code using tree and graph-based techniques. | C++ · HTML · CSS · JavaScript |
+| [**Event_Manager_Mahesh**](https://github.com/MaheshAvhad18/Event_Manager_Mahesh) | C++ event management system for organizing and managing event-related information. | C++ |
+| [**task-manager-api**](https://github.com/MaheshAvhad18/task-manager-api) | REST API for creating, managing, and tracking tasks using Node.js. | Node.js · JavaScript |
 
 ---
 
