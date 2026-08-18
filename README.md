@@ -2,6 +2,15 @@
 
 ### Computer Engineering Student · Developer · Builder
 
+<p>
+  <a href="https://www.linkedin.com/in/mahesh-avhad-35931032b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20Avhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Mahesh_0018/">
+    <img src="https://img.shields.io/badge/LeetCode-Mahesh__0018-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### About
@@ -102,19 +111,6 @@ The goal is to make sensor integration simpler by providing multiple sensors thr
 * 🏗️ System Design
 * 🔗 Blockchain & Web3
 * 🐧 Linux
-
----
-
-### Connect With Me
-
-<p>
-  <a href="https://github.com/MaheshAvhad18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
